@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1054043485068",
+    "firebase_url": "https://onlinefood-4ac26.firebaseio.com",
+    "project_id": "onlinefood-4ac26",
+    "storage_bucket": "onlinefood-4ac26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054043485068:android:da61c3ff9f2155e7",
+        "android_client_info": {
+          "package_name": "com.example.rokon.onlinefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054043485068-20tqojb4hk09j5j3asoaeek2uf8tn1cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rokon.onlinefood",
+            "certificate_hash": "48d1e43f9c4ca2497f78faca0cf634e5d8e482e6"
+          }
+        },
+        {
+          "client_id": "1054043485068-kmsqo0lnp1jh2kb0m9r7s48las56oq9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC23ladpdFZZk4TNgB3mo3pluEwlEo8TJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054043485068-kmsqo0lnp1jh2kb0m9r7s48las56oq9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
